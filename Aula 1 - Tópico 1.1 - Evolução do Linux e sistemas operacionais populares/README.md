@@ -23,30 +23,47 @@ desenvolvido originalmente em 1970 por Ken Thompson, Dennis Ritchie e outros, to
 A distribuição Linux contém um kernel Linux e programas GNU, além da agregação de demais recursos para tornar sua utilização simplificada, como por exemplo a gestão de pacotes, que impede que aplicativos incompatíveis ou maliciosos sejam instalados.
 
 Segue uma lista parcial dos arquivos, termos e utilitários utilizados:
+
 Android
+
 Debian, Ubuntu (LTS)
+
 CentOS, openSUSE, SUSE, Red Hat
+
 Linux Mint, Scientific Linux
+
 Raspberry Pi, Raspbian
 
 Algumas das distribuições Linux mais populares incluem:
+
 Ubuntu: uma distribuição popular para desktop e servidor, conhecida por sua facilidade de uso.
+
 Debian: uma distribuição robusta e confiável, popular para servidores e dispositivos
 embarcados.
+
 Red Hat Enterprise Linux: uma distribuição comercial popular para servidores.
+
 Fedora: uma distribuição de desenvolvimento popular para usuários avançados.
 
 ## Nuvem e o Linux
 Por ter sua característica de ser facilmente escalável que com uma auta compatibilidade, o Linux também é altamente utilizados em ambientes de nuvem.
+
 Algumas das plataformas de nuvem mais populares que usam Linux incluem:
+
 Amazon Web Services (AWS)
+
 Microsoft Azure
+
 Google Cloud Platform
 
 Para obter uma pontuação de passagem no tópico 1.1 da prova LPI Linux Essentials, os candidatos
 devem ser capazes de:
+
 Definir uma distribuição Linux.
+
 Nomear três distribuições Linux populares.
+
 Descrever o uso de sistemas embarcados.
+
 Descrever o uso do Linux na nuvem.
 
