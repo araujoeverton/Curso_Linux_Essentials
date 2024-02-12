@@ -2,7 +2,7 @@
 
 
 
-<img align="right" src="https://hermes.dio.me/tracks/4d998d5c-36c1-497b-8da0-8db465c820eb.png" width="200"/>
+<img align="right" src="https://github.com/araujoeverton/Curso_Linux_Essentials/blob/main/imagens/Tux.svg.png?raw=true" width="200"/>
 
 # Autorização de Uso
 ### 1. Salve uma cópia e utilize os modelos para desenvolver suas respostas!
