@@ -6,7 +6,7 @@
 
 # Autorização de Uso
 ### 1. Salve uma cópia e utilize os modelos para desenvolver suas respostas!
-<a href="https://github.com//alexklenio/DIO-Microsoft-Azure-AI-Fundamentals/fork">
+<a href="https://github.com/araujoeverton/Curso_Linux_Essentials/fork">
     <img alt="Folk" title="Fork Button" src="https://shields.io/badge/-DAR%20FORK-red.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 
 
@@ -27,16 +27,3 @@ Vídeo aulas com professor experiente na área.
 Exercícios para fixar conhecimentos e se preparar para o exame.
 
 Prova final para adquirir a certificação internacional. 
-
-
-### Repositório destinado às entregas dos desafios de projeto da formação.
-
-
-<div align="center">
-  <p>
-      <img src="https://img.shields.io/github/languages/count/alexklenio/DIO-dotnet-developer"/>
-      <img src="https://img.shields.io/github/repo-size/alexklenio/DIO-dotnet-developer"/>
-      <img src="https://img.shields.io/github/last-commit/alexklenio/DIO-dotnet-developer"/>
-      <img src="https://img.shields.io/github/issues/alexklenio/DIO-dotnet-developer"/>
-  </p> 
-</div>
