@@ -2,6 +2,7 @@
 
 Nesta primeira aula do curso foi abordado a história do Linux e como este sistema evoluiu com o passar dos tempos.
 O Linux é um sistema operacional de computadores criado no modelo de desenvolvimento de Código Aberto, um componente central do sistema denominado Kernel ( núcleo ). 
+
 Seu criador, o programador finlandês Linus Torvalds, publicou a primeira versão do Linux em 5 de outubro de 1991. Sua intenção foi criar um kernel para o projeto GNU.
 
 ## O que seria um sistema operacional?
